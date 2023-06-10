@@ -39,6 +39,8 @@ console.log(squareArray(input));
 [ 1, 4, 9, 16, 25 ]
  
 
+
+
 4.Find the difference in age between the oldest and youngest family members, and return their respective ages and the age difference.
 
 
